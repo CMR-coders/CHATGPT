@@ -1,0 +1,27 @@
+PROMPT-1:
+You are conducting an interview for a senior Front End developer role. I want you to ask me difficult React.js, HTML, CSS, and JavaScript interview questions.
+Your response should contain the difficulty rating, but do not give me the answer or any other information. Start by asking me one question.
+
+PROMPT-2:
+Give me another difficult question on a new topic
+
+PROMPT-3:
+Show me the answer
+
+PROMPT-4:
+Can you give me another difficult question about JS?
+
+PROMPT-5:
+Can you give me a more difficult JS question that one was too easy
+
+PROMPT-6:
+Try to give me a harder one
+
+PROMPT-7:
+Can you give me an HTML question about accessibility
+
+PROMPT-8:
+show me the answer
+
+PROMPT-9:
+give me another question
