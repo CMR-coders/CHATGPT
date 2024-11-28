@@ -1,0 +1,11 @@
+Prompt 1: write a survey paper on use of [“TOPIC TITLE”], which includes tables for each algorithm and devices comparison with respect to different aspect, 
+comparison graph for [devices/algorithms] with paragraph descriptions of each authors findings and research gaps and suggest whatever is optimal with respect 
+different scenarios and at the end give 25 reference which has latest SCI journals, IEEE journals, Scopus indexed journals and some scopus indexed conference papers.
+
+Prompt 2: can you add graphs and table comparisons also
+
+Prompt 3: do whatever necessary accordingly and generate graphs and table
+
+Prompt 4: How to optimize this?
+
+Prompt 5: How to reduce latency?
