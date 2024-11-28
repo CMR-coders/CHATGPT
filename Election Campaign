@@ -1,0 +1,10 @@
+Prompt: What are the key components of an effective election campaign content strategy? 
+Prompt: How do you determine the most effective messages for different demographic groups in an election campaign?
+Prompt: Can you describe a successful campaign content piece you developed or would develop? What made it effective?
+Prompt: How do you measure the success of election campaign content?
+Prompt: What ethical considerations should be taken into account when creating and distributing election campaign content?
+
+Syntax Prompt: create a XXXX banner containing photo of XXXX with {XXXX} party symbol and background of indian tricolour and a quote below candidate "{Any quote}” with XXXX name of candidate below and social medias links below.
+
+Example Prompt:
+create a election banner containing photo of candidate with congress party symbol and background of indian tricolour and add manifesto free bus, free electricity and a quote below candidate "For a better tommorow” with name of candidate"Kunal Devidas Gaikwad" below and social media links below.
