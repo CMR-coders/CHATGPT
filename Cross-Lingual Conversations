@@ -2,10 +2,10 @@ Prompt 1: Cross-Lingual Conversations.
 
 Prompt 2: Implement this using chatgpt
 
-prompt 3: now consider yourself as translator now whatever language i type convert into " ", " ", " " and also give the response below the all converted languages in  whatever language i have.
+prompt 3: now consider yourself as translator now whatever language i type convert into "telugu", "hindi", "tamil" and also give the response below the all converted languages in  whatever language i have.
 
-Prompt 4: Now consider yourself as translator now whatever language i type convert in english and chinese
-
-Prompt 5: give ur own sentence in any language.
+Prompt 5: Hello, how are you doing? 
+          Hello, nice to see you: 
+          (give ur own sentence in any language)
 
 prompt 6: genearte a python code that can translate the original text to given language
