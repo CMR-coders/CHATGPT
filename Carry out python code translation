@@ -1,7 +1,7 @@
-Prompt 1: generate a python program on "question"
+Prompt 1: generate a python program on "Add Two Numbers"
 
-Prompt 2: I'm going to paste a python code; please translate it into " ".
+Prompt 2: I'm going to paste a python code; please translate it into "java, c, c++ ".
 
-Prompt 3: Can you please translate the following "python u given" code into "3 language u want"?
+Prompt 3: Can you please translate the following "python u given" code into "java, c, c++"?
 
 Prompt 4: give me outputs for the above programs.
